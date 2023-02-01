@@ -1,0 +1,28 @@
+.button_inactive {
+    height: 24px;
+    width: 44px;
+    background: #fff;
+    box-shadow: 0 0 12px rgb(0 0 0 / 6%);
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    margin-right: 2vh;
+    font-size: 20px;
+    color: #505050;
+}
+
+.button_active {
+    height: 34px;
+    width: 55px;
+    background: #fff;
+    border: 1px solid rgb(11, 112, 231);
+    font-weight: 800;
+    color: rgb(11, 112, 231);
+    box-shadow: 0 0 12px rgb(0 0 0 / 6%);
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 2vh;
+    font-size: 20px;
+}
