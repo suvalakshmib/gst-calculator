@@ -31,10 +31,8 @@ class App extends React.Component {
           </div>
         </div>
         <div className='bb flex'>
-          <a href='#'>https://brownbutton.io</a>
           <div className='flex'>
-            <p className='pb'>Powered by</p>
-            <img src='https://media.licdn.com/dms/image/C560BAQGxNL2NwrXMwA/company-logo_200_200/0/1672549434917?e=2147483647&v=beta&t=1q0cyg2gjbX815MW7cWy2cciU2NjK5P2KQi-L7BO268' className='' />
+            <p className='pb'>Developed by Suvalakshmi</p>
           </div>
         </div>
        
